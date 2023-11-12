@@ -1,0 +1,114 @@
+Id	full_id	type	fertilizer	sample_or_control	old_or_new	fertilizer_old_new	fertilizer_cultivar
+B_min_C4	Sample003_C4	babuska	mineral	sample	old	min_old	b_m
+B_min_C5	Sample031_C5	babuska	mineral	sample	old	min_old	b_m
+B_min_C6	Sample060_C6	babuska	mineral	sample	old	min_old	b_m
+B_noF_C1	Sample030_C1	babuska	no_fertilizer	sample	old	noF_old	b_noF
+B_noF_C2	Sample002_C2	babuska	no_fertilizer	sample	old	noF_old	b_noF
+B_noF_C3	Sample059_C3	babuska	no_fertilizer	sample	old	noF_old	b_noF
+B_o2_C10	Sample110_C10	babuska	organic_2	sample	old	o2_old	b_o2
+B_o2_C11	Sample111_C11	babuska	organic_2	sample	old	o2_old	b_o2
+B_o2_C12	Sample130_C12	babuska	organic_2	sample	old	o2_old	b_o2
+B_o4_C16	Sample061_C16	babuska	organic_4	sample	old	o4_old	b_o4
+B_o4_C17	Sample062_C17	babuska	organic_4	sample	old	o4_old	b_o4
+B_o4_C18	Sample004_C18	babuska	organic_4	sample	old	o4_old	b_o4
+B_o6_C22	Sample063_C22	babuska	organic_6	sample	old	o6_old	b_o6
+B_o6_C23	Sample064_C23	babuska	organic_6	sample	old	o6_old	b_o6
+B_o6_C24	Sample005_C24	babuska	organic_6	sample	old	o6_old	b_o6
+c_blank_Sample107	Sample107_blank	blank	blank	control			
+c_blank_Sample108	Sample108_blank	blank	blank	control			
+c_blank_Sample129	Sample129_blank	blank	blank	control			
+c_M13_Sample142	Sample142_M13	blank	blank	control			
+c_M14_Sample143	Sample143_M14	blank	blank	control			
+c_M8_Sample141	Sample141_M8	blank	blank	control			
+c_mock_Sample146	Sample146_mock	mock	mock	control			
+c_neg2_S145	S145_neg2	neg	neg	control			
+c_SIGMA_Sample109	Sample109_SIGMA	h20	blank	control			
+c_SIGMA_Sample144	Sample144_SIGMA	h20	blank	control			
+F_min_C76	Sample077_C76	flair	mineral	sample	new	min_new	f_m
+F_min_C77	Sample093_C77	flair	mineral	sample	new	min_new	f_m
+F_min_C78	Sample043_C78	flair	mineral	sample	new	min_new	f_m
+F_noF_C73	Sample014_C73	flair	no_fertilizer	sample	new	noF_new	f_noF
+F_noF_C74	Sample075_C74	flair	no_fertilizer	sample	new	noF_new	f_noF
+F_noF_C75	Sample076_C75	flair	no_fertilizer	sample	new	noF_new	f_noF
+F_o2_C82	Sample133_C82	flair	organic_2	sample	new	o2_new	f_o2
+F_o2_C83	Sample114_C83	flair	organic_2	sample	new	o2_new	f_o2
+F_o2_C84	Sample115_C84	flair	organic_2	sample	new	o2_new	f_o2
+F_o4_C88	Sample078_C88	flair	organic_4	sample	new	o4_new	f_o4
+F_o4_C89	Sample015_C89	flair	organic_4	sample	new	o4_new	f_o4
+F_o4_C90	Sample044_C90	flair	organic_4	sample	new	o4_new	f_o4
+F_o6_C94	Sample116_C94	flair	organic_6	sample	new	o6_new	f_o6
+F_o6_C95	Sample117_C95	flair	organic_6	sample	new	o6_new	f_o6
+F_o6_C96	Sample118_C96	flair	organic_6	sample	new	o6_new	f_o6
+FW_min_C124	Sample051_C124	feedway	mineral	sample	new	min_new	f_m
+FW_min_C125	Sample021_C125	feedway	mineral	sample	new	min_new	f_m
+FW_min_C126	Sample022_C126	feedway	mineral	sample	new	min_new	fw_m
+FW_noF_C121	Sample001_C121	feedway	no_fertilizer	sample	new	noF_new	fw_nF
+FW_noF_C122	Sample089_C122	feedway	no_fertilizer	sample	new	noF_new	fw_nF
+FW_noF_C123	Sample096_C123	feedway	no_fertilizer	sample	new	noF_new	fw_nF
+FW_o2_C130	Sample119_C130	feedway	organic_2	sample	new	o2_new	fw_o2
+FW_o2_C131	Sample134_C131	feedway	organic_2	sample	new	o2_new	f_o2
+FW_o2_C132	Sample120_C132	feedway	organic_2	sample	new	o2_new	fw_o2
+FW_o4_C136	Sample097_C136	feedway	organic_4	sample	new	o4_new	fw_o4
+FW_o4_C137	Sample098_C137	feedway	organic_4	sample	new	o4_new	fw_o4
+FW_o4_C138	Sample052_C138	feedway	organic_4	sample	new	o4_new	fw_o4
+FW_o6_C142	Sample053_C142	feedway	organic_6	sample	new	o6_new	fw_o6
+FW_o6_C143	Sample121_C143	feedway	organic_6	sample	new	o6_new	fw_o6
+FW_o6_C144	Sample099_C144	feedway	organic_6	sample	new	o6_new	fw_o6
+I_min_C100	Sample017_C100	irina	mineral	sample	new	min_new	i_m
+I_min_C101	Sample094_C101	irina	mineral	sample	new	min_new	i_m
+I_min_C102	Sample018_C102	irina	mineral	sample	new	min_new	i_m
+I_noF_C97	Sample079_C97	irina	no_fertilizer	sample	new	noF_new	i_noF
+I_noF_C98	Sample045_C98	irina	no_fertilizer	sample	new	noF_new	i_noF
+I_noF_C99	Sample016_C99	irina	no_fertilizer	sample	new	noF_new	i_noF
+I_o2_C106	Sample048_C106	irina	organic_2	sample	new	o2_new	i_o2
+I_o2_C107	Sample081_C107	irina	organic_2	sample	new	o2_new	i_o2
+I_o2_C108	Sample049_C108	irina	organic_2	sample	new	o2_new	i_o2
+I_o4_C112	Sample084_C112	irina	organic_4	sample	new	o4_new	i_o4
+I_o4_C113	Sample085_C113	irina	organic_4	sample	new	o4_new	i_o4
+I_o6_C118	Sample020_C118	irina	organic_6	sample	new	o6_new	i_o6
+I_o6_C119	Sample088_C119	irina	organic_6	sample	new	o6_new	i_o6
+I_o6_C120	Sample050_C120	irina	organic_6	sample	new	o6_new	i_o6
+L_min_C52	Sample035_C52	langeland	mineral	sample	old	min_old	l_m
+L_min_C53	Sample036_C53	langeland	mineral	sample	old	min_old	l_m
+L_min_C54	Sample008_C54	langeland	mineral	sample	old	min_old	l_m
+L_noF_C49	Sample067_C49	langeland	no_fertilizer	sample	old	noF_old	l_noF
+L_noF_C50	Sample068_C50	langeland	no_fertilizer	sample	old	noF_old	l_noF
+L_noF_C51	Sample034_C51	langeland	no_fertilizer	sample	old	noF_old	l_noF
+L_o2_C58	Sample070_C58	langeland	organic_2	sample	old	o2_old	l_o2
+L_o2_C59	Sample092_C59	langeland	organic_2	sample	old	o2_old	l_o2
+L_o2_C60	Sample010_C60	langeland	organic_2	sample	old	o2_old	l_o2
+L_o4_C64	Sample038_C64	langeland	organic_4	sample	old	o4_old	l_o4
+L_o4_C65	Sample039_C65	langeland	organic_4	sample	old	o4_old	l_o4
+L_o4_C66	Sample012_C66	langeland	organic_4	sample	old	o4_old	l_o4
+L_o6_C70	Sample042_C70	langeland	organic_6	sample	old	o6_old	l_o6
+L_o6_C71	Sample074_C71	langeland	organic_6	sample	old	o6_old	l_o6
+L_o6_C72	Sample013_C72	langeland	organic_6	sample	old	o6_old	l_o6
+R_min_C196	Sample101_C196	rgt	mineral	sample	new	min_new	r_m
+R_min_C198	Sample122_C198	rgt	mineral	sample	new	min_new	r_m
+R_noF_C193	Sample023_C193	rgt	no_fertilizer	sample	new	noF_new	r_noF
+R_noF_C194	Sample100_C194	rgt	no_fertilizer	sample	new	noF_new	r_noF
+R_noF_C195	Sample054_C195	rgt	no_fertilizer	sample	new	noF_new	r_noF
+R_o2_C202	Sample123_C202	rgt	organic_2	sample	new	o2_new	r_o2
+R_o2_C203B	Sample135_C203B	rgt	organic_2	sample	new	o2_new	r_o2
+R_o2_C204	Sample124_C204	rgt	organic_2	sample	new	o2_new	r_o2
+R_o4_C208	Sample102_C208	rgt	organic_4	sample	new	o4_new	r_o4
+R_o4_C209	Sample024_C209	rgt	organic_4	sample	new	o4_new	r_o4
+R_o4_C210	Sample025_C210	rgt	organic_4	sample	new	o4_new	r_o4
+R_o6_C214	Sample026_C214	rgt	organic_6	sample	new	o6_new	r_o6
+R_o6_C215	Sample055_C215	rgt	organic_6	sample	new	o6_new	r_o6
+R_o6_C216	Sample103_C216	rgt	organic_6	sample	new	o6_new	r_o6
+S_min_C28	Sample033_C28	salka	mineral	sample	old	min_old	s_m
+S_min_C29	Sample090_C29	salka	mineral	sample	old	min_old	s_m
+S_min_C30	Sample112_C30	salka	mineral	sample	old	min_old	s_m
+S_noF_C25	Sample065_C25	salka	no_fertilizer	sample	old	noF_old	s_noF
+S_noF_C26	Sample032_C26	salka	no_fertilizer	sample	old	noF_old	s_noF
+S_noF_C27	Sample006_C27	salka	no_fertilizer	sample	old	noF_old	s_noF
+S_o2_C34	Sample113_C34	salka	organic_2	sample	old	o2_old	s_o2
+S_o2_C35	Sample131_C35	salka	organic_2	sample	old	o2_old	s_o2
+S_o2_C36	Sample132_C36	salka	organic_2	sample	old	o2_old	s_o2
+S_o4_C40	Sample091_C40	salka	organic_4	sample	old	o4_old	s_o4
+S_o4_C41	Sample007_C41	salka	organic_4	sample	old	o4_old	s_o4
+S_o4_C42	Sample066_C42	salka	organic_4	sample	old	o4_old	s_o4
+S_o6_C46	Sample138_C46	salka	organic_6	sample	old	o6_old	s_o6
+S_o6_C47	Sample139_C47	salka	organic_6	sample	old	o6_old	s_o6
+S_o6_C48	Sample140_C48	salka	organic_6	sample	old	o6_old	s_o6
